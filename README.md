@@ -8,3 +8,4 @@
 - CSS
 
 ## Demo:
+https://meryemsenturk.github.io/Project07-Product-Card/
