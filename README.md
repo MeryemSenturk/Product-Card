@@ -9,4 +9,4 @@ The Responsive Product Card project is a demonstration of an attractive and user
 - CSS
 
 ## Demo:
-[Product-Card](https://meryemsenturk.github.io/Project07-Product-Card/)
+[Product-Card](https://meryemsenturk.github.io/Product-Card/)
